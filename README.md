@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sojinkang&fontSize=90)
 
+<p>i love travel </p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
