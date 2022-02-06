@@ -1,7 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sojinkang&fontSize=90)
 
-<p>i love travel </p>
+<h3 align="center"><b>🛠 ABOUT ME 🛠</b></h3>
+</br>
+<p align="center">
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -13,6 +15,10 @@
 <img src="https://img.shields.io/badge/Now Stuyding-4479A1?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Now Stuyding-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
+
+<h3 align="center"><b>🛠 MORE 🛠</b></h3>
+</br>
+<p align="center">
 
  [![Portpolio Badge](http://img.shields.io/badge/-portpolio-black?style=flat-square&logo=github&link=https://sojinkang.tistory.com/)](https://sojinkang.tistory.com/)
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sojinkang.tistory.com/)](https://sojinkang.tistory.com/)
