@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Now Stuyding-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
-
+ [![Portpolio Badge](http://img.shields.io/badge/-portpolio-black?style=flat-square&logo=github&link=https://sojinkang.tistory.com/)](https://sojinkang.tistory.com/)
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sojinkang.tistory.com/)](https://sojinkang.tistory.com/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sojinkang.tech@gmail.com)](mailto:sojinkang.tech@gmail.com)
   
